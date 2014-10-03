@@ -1,10 +1,21 @@
 [
   {
     "remote":       "github",
-    "repository":   "AOSPA-legacy/  
-    "repository":   "android_device_samsung_hlte-common",
-    "target_path":  "device/samsung/hlte-common"
+    "repository":   "AOSPA-legacy/android_device_samsung_hlte-common",
+    "target_path":  "device/samsung/hlte-common",
     "revision":     "kitkat"    
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-legacy/android_device_samsung_msm8974-common",
+    "target_path":  "device/samsung/msm8974-common",
+    "revision":     "kitkat"
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-legacy/android_device_samsung_qcom-common",
+    "target_path":  "device/samsung/qcom-common",
+    "revision":     "kitkat"
   },
   {
     "remote":       "cm",
